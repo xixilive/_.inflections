@@ -25,6 +25,6 @@ There are 8 functions, all of these functions have as much of an effect as the A
 
 
 # Links
-[documentcloud/underscore](https://github.com/documentcloud/underscore)
-[documentcloud/backbone](https://github.com/documentcloud/backbone)
-[Rails](https://github.com/rails/rails)
+### [documentcloud/underscore](https://github.com/documentcloud/underscore)
+### [documentcloud/backbone](https://github.com/documentcloud/backbone)
+### [Rails](https://github.com/rails/rails)
