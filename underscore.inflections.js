@@ -60,6 +60,7 @@
 		irregular_rules: [
 			['person', 'people'],
 			['man', 'men'],
+      ['woman', 'women'],
 			['child', 'children'],
 			['sex', 'sexes'],
 			['move', 'moves'],
